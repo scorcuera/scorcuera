@@ -1,16 +1,17 @@
 ### Hi there 👋
-
-<!--
-**scorcuera/scorcuera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=scorcuera&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Sergio Corcuera's Stats">
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=scorcuera&theme=tokyonight&hide_border=true&currStreakNum=1&currStreakLabel=Current%20streak" alt="Sergio Corcuera's Streak">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
