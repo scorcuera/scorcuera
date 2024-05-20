@@ -17,4 +17,4 @@
   </table>
 </div>
 
-![Codewars](https://www.codewars.com/users/cororao/badges/small)
+![Codewars](https://www.codewars.com/users/cororao/badges/large)
