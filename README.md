@@ -16,5 +16,3 @@
     </tr>
   </table>
 </div>
-
-![Codewars](https://www.codewars.com/users/cororao/badges/large)
